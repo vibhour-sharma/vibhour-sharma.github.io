@@ -1,31 +1,15 @@
-# Vibhour Sharma — Workday Enterprise System 
+# Vibhour Sharma — Professional Portfolio
 
-An interactive product case study showcasing my experience across enterprise transformation, product ownership, financial data governance, technical architecture and analytics.
+Live site: https://vibhour-sharma.github.io/
 
-## Live Portfolio
+Professional portfolio covering product ownership, business analysis, enterprise transformation and analytics. The featured Baker Hughes client-engagement case study includes optional technical architecture, five local interactive product simulations and reconstructed delivery artifacts.
 
-🔗 https://vibhour-sharma.github.io/
+## Deployment
+Upload `index.html`, `Vibhour_Sharma_Resume.pdf`, `social-preview.png`, `favicon.svg` and optionally this README to the root of the existing GitHub Pages repository. No build or server is needed.
 
-## Portfolio Highlights
-
-- Enterprise HR and Finance transformation
-- Interactive technical architecture
-- Five functional product demonstrations
-- Product strategy and prioritization
-- Financial data governance and exception management
-- FP&A analytics and reporting
-- SIT/UAT and cross-functional delivery
-
-## Technology Stack
-
-HTML5, SVG, GitHub Pages and GoatCounter Analytics.
-
-## Confidentiality
-
-This is an independent, anonymized professional case study. All demonstration records, financial values and reconstructed product interfaces are illustrative. Project targets are distinguished from verified outcomes.
+## Privacy and accuracy
+Independent, anonymized case study; all demo data and interfaces are illustrative. Reported contribution and program targets are distinct. GoatCounter is configured for the live GitHub Pages hostname; demo inputs are not transmitted.
 
 ## Contact
-
-**Email:** sharmavibhour97@gmail.com
-
-**LinkedIn:** https://www.linkedin.com/in/vibhours/
+- Email: sharmavibhour97@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vibhours/
